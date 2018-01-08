@@ -1,2 +1,4 @@
 # test_html2text
-Premier test pour convertir des pages html en texte
+Premier test pour convertir des pages html en texte.
+
+Ce code ne permet pas de faire cette conversion avec une url.
